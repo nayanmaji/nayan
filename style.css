@@ -1,0 +1,212 @@
+/* Left side box start  */
+
+#first {
+    background-color: rgb(214, 236, 238);
+    width: 35%;
+    border: 1px solid rgb(255, 255, 255);
+    box-shadow: 2px 2px 2px 2px rgb(210, 210, 210);
+    margin: .75% .5% 1% .5%;
+    padding: 5px 15px;
+}
+
+#total {
+    display: flex;
+}
+
+#myimg {
+    width: 100%;
+    border-radius: 50%;
+    box-shadow:
+        inset 0 -3em 3em rgba(0, 0, 0, 0.1),
+        0 0 0 2px rgb(255, 255, 255),
+        0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+}
+
+#a {
+    list-style: url('stUdy.png');
+}
+
+#b {
+    list-style: url('HOME.png');
+}
+
+#c {
+    list-style: none;
+    /* list-style: url('mail.png'); */
+}
+
+#d {
+    list-style: url('phone.png');
+}
+
+h1 {
+    color: rgb(69, 69, 69);
+    margin: 0;
+    right: 10%;
+    bottom: 10%;
+    font-size: 300%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#contrect {
+    color: rgb(84, 84, 84);
+    line-height: 150%;
+    padding: 5px 0px;
+    font-size: 150%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.box {
+    margin: 0 px 5px;
+    height: 20px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+
+.skills {
+    font-size: 100%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 3px 0px;
+    line-height: 150%;
+}
+
+.s {
+    height: 20px;
+    width: 75%;
+    background-color: rgb(228, 227, 227);
+    border-radius: 10px;
+    align-content: center;
+}
+
+
+#ni {
+    height: 20px;
+    width: 90%;
+    background-color: rgb(130, 239, 236);
+    border-radius: 10px;
+    text-align: center;
+}
+
+#nii {
+    height: 20px;
+    width: 60%;
+    background-color: rgb(130, 239, 236);
+    border-radius: 10px;
+    text-align: center;
+}
+
+#niii {
+    height: 20px;
+    width: 75%;
+    background-color: rgb(130, 239, 236);
+    border-radius: 10px;
+    text-align: center;
+}
+
+#niiii {
+    height: 20px;
+    width: 80%;
+    background-color: rgb(130, 239, 236);
+    border-radius: 10px;
+    text-align: center;
+}
+
+.list {
+    color: rgb(18, 207, 200);
+    font-size: 200%;
+    margin: 10px 0px;
+    font-family: system-ui;
+    list-style: url('icon.png');
+}
+
+#l {
+    height: 20px;
+    width: 100%;
+    background-color: rgb(130, 239, 236);
+    border-radius: 10px;
+    text-align: center;
+}
+
+#ll {
+    height: 20px;
+    width: 100%;
+    background-color: rgb(130, 239, 236);
+    border-radius: 10px;
+    text-align: center;
+}
+
+#lll {
+    height: 20px;
+    width: 70%;
+    background-color: rgb(130, 239, 236);
+    border-radius: 10px;
+    text-align: center;
+}
+
+/* Left side box end */
+#seciond {
+    background-color: rgb(214, 236, 238);
+    width: 97%;
+    height: 45%;
+    border: 1px solid rgb(255, 255, 255);
+    box-shadow: 2px 2px 2px 2px rgb(210, 210, 210);
+    margin: 1% 1.5% 1% 0;
+    padding: 5px 15px;
+}
+
+table {
+    border: 1px solid rgb(228, 228, 228);
+    background-color: rgb(176, 223, 208);
+    border-collapse: collapse;
+    text-align: center;
+    font-size: 125%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+th {
+    border: 1px solid rgb(228, 228, 228);
+    background-color: rgb(44, 60, 58);
+    color: rgb(226, 226, 226);
+}
+
+td {
+    border: 1px solid rgb(104, 104, 104);
+}
+
+.Educationlist {
+    font-size: 150%;
+    margin: 0%;
+    padding: 1%;
+    font-family: cursive;
+    list-style: url('education.png');
+}
+
+#theerd {
+    background-color: rgb(214, 236, 238);
+    width: 97%;
+    height: 50%;
+    border: 1px solid rgb(255, 255, 255);
+    box-shadow: 2px 2px 2px 2px rgb(210, 210, 210);
+    margin: 1% 1.5% 1% 0;
+    padding: 5px 15px;
+}
+
+.Competencies {
+    color: rgb(84, 84, 84);
+    line-height: 150%;
+    padding: 5px 0px;
+    font-size: 150%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#Certified {
+    list-style: url('Certifieds.png');
+}
+
+#Workingknowledge {
+    list-style: url('Working.png');
+}
+
+#forever {
+    list-style: url('html.png');
+}
